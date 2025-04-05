@@ -1,4 +1,5 @@
-🧬 Breast Cancer Detection using Machine Learning
+##🧬 Breast Cancer Detection using Machine Learning
+
 This project implements a binary classification model to accurately detect the presence of breast cancer using the Breast Cancer Wisconsin Diagnostic Dataset from scikit-learn. It serves as a practical demonstration of applying machine learning techniques to medical diagnostics.
 
 🧪 Dataset
