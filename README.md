@@ -9,7 +9,7 @@ Classes: Malignant (1), Benign (0)
 
 Features: Mean radius, texture, perimeter, area, smoothness, etc.
 
-## ⚙️ How the Model Work
+## ⚙️ How the Model Works
 Data Loading & Preprocessing
 
 Imported the dataset using sklearn.datasets.load_breast_cancer()
